@@ -9,9 +9,9 @@ Python
 
 ### Example
 '''
-Handles rain, Rain, RaIn as rain
-Handles Delhi as Delhi
-Handles USA as USA
+Handles rain, Rain, RaIn as rain \n
+Handles Delhi as Delhi \n
+Handles USA as USA \n
 Used elif.
 '''
 
